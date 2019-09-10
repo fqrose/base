@@ -8,7 +8,7 @@ public class Test {
             if(true){
                 throw new RuntimeException("");
             }
-            System.out.println("hello world");
+            System.out.println("hello world2");
         }catch (Exception e){
             System.out.println("exception happen ");
         }
