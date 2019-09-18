@@ -9,6 +9,16 @@ public class ArrayOperation {
      * 4.二维数组的寻址公式：
      */
 
+    public static void main(String[] args) {
+        String[] arr1 = new String[]{"zhangsan","lisi"};
+        String[] arr2 = new String[3];
+        String[] arr3 = {};
+        System.out.println(arr3.length);
+        String s = "chenshuai";
+        System.out.println(s.length());
+
+
+    }
 
     /**
      * 找出数组中第二大的元素
