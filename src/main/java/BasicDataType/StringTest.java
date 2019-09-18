@@ -1,4 +1,4 @@
-package Array;
+package BasicDataType;
 
 public class StringTest {
     public static void main(String[] args) {

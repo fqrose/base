@@ -1,4 +1,4 @@
-package Array;
+package BasicDataType;
 
 public class IntegerTest {
 
