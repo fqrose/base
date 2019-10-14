@@ -1,8 +1,5 @@
-package BasicDataType;
+package basicDataType;
 
-import java.util.Date;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

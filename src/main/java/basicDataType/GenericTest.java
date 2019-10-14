@@ -1,4 +1,4 @@
-package BasicDataType;
+package basicDataType;
 
 public class GenericTest {
 
